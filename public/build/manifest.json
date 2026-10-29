@@ -1,0 +1,24 @@
+{
+  "public/defualt/placeholder.png": {
+    "file": "assets/placeholder-DgmWj8_v.png",
+    "src": "public/defualt/placeholder.png"
+  },
+  "public/icons/diamonds.png": {
+    "file": "assets/diamonds-2nfW0RuP.png",
+    "src": "public/icons/diamonds.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-B1fEnKYj.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BKfJKODE.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-DvB2Xm2x.css"
+    ]
+  }
+}
